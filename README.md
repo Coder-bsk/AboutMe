@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Coder-bsk
-- I do PML program and .Net customiztion for E3D and PDMS
+- I do PML program and .Net customization for E3D and PDMS
